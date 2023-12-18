@@ -1,0 +1,23 @@
+/* 언어설정 */
+@charset 'UTF-8';
+@import url('https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap');
+
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+ul, ol {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+img {
+    border: none;
+    vertical-align: bottom;
+}
+body {
+    font-family: 'Gamja Flower', sans-serif;
+}
